@@ -1,6 +1,10 @@
 # 🕺 We Are Jammin (`we-are-jammin.xyz`) — Локальная копия
 
-Автономная локальная версия популярного интерактивного сайта-пранка (мема) `we-are-jammin.xyz`.
+[![Live Demo](https://img.shields.io/badge/🚀_Открыть_сайт_(Live_Demo)-kotmir.github.io-2ea44f?style=for-the-badge)](https://kotmir.github.io/we-are-jammin-clone/)
+
+Автономная локальная и веб-версия популярного интерактивного сайта-пранка (мема) `we-are-jammin.xyz`.
+
+🔗 **Рабочая ссылка (GitHub Pages):** [https://kotmir.github.io/we-are-jammin-clone/](https://kotmir.github.io/we-are-jammin-clone/)
 
 ## 📖 О проекте
 
